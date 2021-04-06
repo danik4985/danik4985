@@ -1,3 +1,7 @@
+# helo
+
+![smočcrop.png](https://cdn.discordapp.com/attachments/733703994018496564/828907015362969650/smoccrop.png)
+
 - 👋 Hi, I’m @danik4985
 - 👀 I’m interested in typescript
 - 🌱 I’m currently learning how to make a good profile readme
