@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ... yea I dont think anyone wants to colaborate with me :o~((
 - 📫 Discord: `danik#4985`
 
-![](https://discord.c99.nl/widget/theme-2/677216269271040041.png
+![](https://discord.c99.nl/widget/theme-2/677216269271040041.png)
 
 I don't put much things on github to be honest.
 
