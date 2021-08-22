@@ -8,6 +8,10 @@
 - 💞️ I’m looking to collaborate on ... yea I dont think anyone wants to colaborate with me :o~((
 - 📫 Discord: `danik#4985`
 
+![](https://discord.c99.nl/widget/theme-2/677216269271040041.png
+
+I don't put much things on github to be honest.
+
 ![danik's GitHub stats](https://github-readme-stats.vercel.app/api?username=danik4985&show_icons=true&theme=onedark&count_private=true)
 
 Did I mention I like cats?
@@ -47,3 +51,5 @@ Haxe
 danik4985/danik4985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://hit.yhype.me/github/profile?user_id=82022495)
