@@ -14,7 +14,7 @@ I don't put much things on github to be honest.
 
 ![danik's GitHub stats](https://github-readme-stats.vercel.app/api?username=danik4985&show_icons=true&theme=onedark&count_private=true)
 
-Did I mention I like cats?
+Did I mention I like cats and amogus? 
 
 ## Languages
 
