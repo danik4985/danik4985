@@ -2,9 +2,10 @@
 
 # helo
 
-- 👋 Hi, I’m @danik4985
-- 👀 I’m interested in typescript
-- 🌱 I’m currently learning how to make a good profile readme
+- 👋 Hi, I’m @danik4985.
+- 👀 I’m interested in typescript.
+- 🌱 I’m currently learning how to make a good profile readme.
+- 🔅 I'm a light mode enjoyer.
 - 💞️ I’m looking to collaborate on ... yea I dont think anyone wants to colaborate with me :o~((
 - 📫 Discord: `danik#4985`
 
