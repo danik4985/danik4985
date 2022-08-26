@@ -9,7 +9,12 @@
 - 💞️ I’m looking to collaborate on ... yea I dont think anyone wants to colaborate with me :o~((
 - 📫 Discord: `danik#4985`
 
+<br>
+
 [![](https://discord.c99.nl/widget/theme-2/677216269271040041.png)](https://discord.com/users/677216269271040041)
+
+> Fun fact: the person who made this discord indicator is a retard and refuses to implement support for diacritic characters, so my statuses in czech don't work :angry:
+<br>
 
 I don't put much things on github to be honest.
 
