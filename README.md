@@ -16,7 +16,7 @@
 > Fun fact: the person who made this discord indicator is a retard and refuses to implement support for diacritic characters, so my statuses in czech don't work :angry:
 <br>
 
-I don't put much things on github to be honest.
+I don't put many things on github to be honest.
 
 ![danik's GitHub stats](https://github-readme-stats.vercel.app/api?username=danik4985&show_icons=true&theme=onedark&count_private=true)
 
