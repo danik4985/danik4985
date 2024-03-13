@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/733703994018496564/863037421944176650/github_banner.jpg)
+![Banner](./github_banner.jpg)
 
 # helo
 
